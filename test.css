@@ -1,0 +1,94 @@
+*{
+	margin:0;
+	padding:0;
+}
+body{
+
+}
+#wrapper{
+	width:1349px;
+}
+#header{
+	background:#4fee69;
+	
+}
+#header h1{
+	color:blue;
+	font-size: 70px;
+	text-align:center;
+}
+#header p{
+	color: #fc1800;
+	font-size:40px;
+	font-weight:bold;
+	text-align:center;
+}
+#naeem{
+	background:orange;
+
+}
+#naeem p{
+	font-family:arial;
+	font-weight:bold;
+	font-size:30px;
+	color:#fff;
+}
+#nav{
+	background:#ea73ab;
+	height:38px;
+}
+#nav ul{
+	background:#ea73ab;
+	list-style-type:none;
+}
+#nav ul li{
+	float:left;
+	border-right:5px solid orange;
+}
+#nav ul li:last-child{
+	border:none;
+}
+#nav ul li a{
+	color:blue;
+	font-size:20px;
+	font-family:arial;
+	font-weight:bold;
+	text-decoration:none;
+	display:block;
+	padding:10px 110px;
+}
+#nav ul li a:hover{
+	color:#00ff00;
+}
+#form{
+	border:2px solid gold;
+	background-image:url("hotel.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+	text-align:center;
+	font-family:arial;
+	font-weight:bold;
+}
+#div{
+	width:1220px;
+	color:#8d07fe;
+}
+#div:hover{
+	color:#1200fc;
+}
+#div h1{
+	color:#fb053f;
+}
+#div h2{
+	color:#000cfc;
+}
+#footer{
+	background:#ddd;
+	padding:3px;
+	font-family:arial;
+	text-align:center;
+}
+#footer p{
+	color:#3803ff;
+	font-weight:bold;
+}
